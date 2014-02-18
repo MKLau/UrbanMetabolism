@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+\usepackage{color}
+\usepackage{cite}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+%\usepackage{pdflscape}        %single page landscape
+                                %mode \begin{landscape} \end{landscape}
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{multicol} % \begin{multicols}{number of columns} \end{multicols}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{Sweave}
+\newcommand{\etal}{\textit{et al.}}
+\usepackage{hyperref}  %\hyperref[label_name]{''link text''}
+                       %\hyperlink{label}{anchor caption}
+                       %\hypertarget{label}{link caption}
+\linespread{1.5}
+
+\title{The Ascendency of Urban Metabolism}
+\author{M.K. Lau}
+%\date{}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+%\setcounter{tocdepth}{3}  %%activate to number sections
+%\tableofcontents
+
+%\thispagestyle{empty}
+%\setcounter{page}{0}
+%\setcounter{secnumdepth}{-1}  %activate to start numbering from one
+%on the second page
+
+
+\section{Urban Ascendency}
+
+\begin{enumerate}
+\item Ascendency theory measures the organization and complexity of
+  ecosystems through the comparison of the flow of energetically
+  conserved units between constrained and unconstrained states
+\item Urban areas encompass large areas and both direct and consume
+  the flow of energy and matter
+\item An analysis of the ascendency of urban ecosystems in the context of
+  urban development 
+  \begin{enumerate}
+  \item Are there common patterns in urban ascendency across cities?
+  \item What interventions influence ascendency, e.g. how does green
+    space impact the metabolism and ascendency of cities?
+  \end{enumerate}
+\end{enumerate}
+
+
+\section{Lit Review}
+
+\begin{enumerate}
+\item Chen and Chen 2012. Network Environ Perspective for Urban
+  Metabolism and Carbon Emissions: A Case Study of Vienna, Austria
+\item Urban Metabolism Lit Review
+\item Kennedy et al. 2011 The study of urban metabolism and its
+  applications to urban planning and design.
+\item Pincetl 2012 An expanded urban metabolism method: Toward a
+  systems approach for assessing urban energy processes and causes
+\item Zhang 2013 Urban metabolism: A review of research methodologies.
+\item Dawson 2007 Re-engineering cities: a framework for adaptation to
+  global change
+\item Burgess Chapter 37 The growth of the city
+\end{enumerate}
+
+\section{2013 May 17}
+
+
+
+Time lapse animations of the earth:
+\url{http://world.time.com/timelapse/}
+
+James Corner's perspective on on landscape urbanism
+\url{http://www.cusa-dds.net/Arch351F09/wp-content/plugins/downloads-manager/upload/Terra%20Fluxus.pdf}
+
+Stoss' Detroit Project
+\url{http://detroitworksproject.com/wp-content/uploads/2013/01/DFC_Plan_City-Systems.pdf}
+
+
+
+%\subsection{}
+
+%% %%Figure construction
+%% <<echo=false,results=hide,label=fig1,include=false>>=
+%% @ 
+
+
+%% %%Figure plotting
+%% \begin{figure} 
+%% \begin{center} 
+%% <<label=fig1,fig=TRUE,echo=false>>=
+%% <<fig1>> 
+%% @ 
+%% \end{center} 
+%% \caption{}
+%% \label{fig:one}
+%% \end{figure}
+
+
+%% %%Activate for bibtex vibliography
+%% \cite{goossens93}
+%% \bibliographystyle{plain}
+%% \bibliography{/Users/Aeolus/Documents/bibtex/biblib}
+
+
+\end{document}  
+
+

@@ -1,0 +1,73 @@
+/* v1.2 */
+
+/* BASE CSS BEFORE CUSTOMIZATION */
+#nrelate_related_placeholder *{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}
+#nrelate_related_placeholder .nrelate_related,.nrelate_related .nr_inner ul li{clear:both;position:relative!important}
+.nrelate_related .nr_inner ul li a{display:inline!important}
+.nrelate_related .nr_inner ul li a .nr_post_title,.nrelate_related .nr_inner ul li .nr_source{display:inline!important;word-wrap:break-word}
+.nrelate_related .nr_inner .nr_panel{zoom:1;min-height:0!important;position:relative!important}
+.nrelate_related .nr_inner .nr_panel .nr_img_div,.nrelate_related .nr_inner .nr_panel .nr_img_div .nr_img{width:100%}
+.nrelate_related .nr_inner .nr_panel .nr_text .nr_post_title,.nrelate_related .nr_inner .nr_panel .nr_text .nr_source{white-space:normal;word-wrap:break-word}
+.nrelate_related .nr_about{position:absolute;top:auto!important;left:auto!important}
+.nrelate_related .nr_remove{display:block;width:13px;height:13px;position:absolute;top:0;right:0;background:url(http://static.nrelate.com/common_js/0.52.0/close_window.gif) no-repeat;cursor:pointer;z-index:8999}
+
+/* widget 6 */
+
+#nrelate_related_placeholder .widget_id_6 *{ margin: 0px; padding: 0px; display: block; }
+#nrelate_related_placeholder .widget_id_6{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(249, 249, 249);
+}
+
+.widget_id_6 .nr_title{
+    padding: 10px 0px !important;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.widget_id_6 .nr_content{
+    float: left;
+    width: 46%;
+    padding: 0 2% 0 1.5% !important;
+}
+
+.widget_id_6 .nr_partners{
+    float: left;
+    width: 47%;
+    padding: 0 0 0 2% !important;
+}
+
+.widget_id_6 .nr_inner ul li{
+    margin: 0px 10px 8px 0px !important;
+    line-height: 16px;
+}
+
+.widget_id_6 .nr_inner ul li a .nr_post_title{
+    padding-right: 5px !important;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(0, 83, 155) !important;
+}
+
+.widget_id_6 .nr_inner ul li .nr_source{
+    white-space: nowrap;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(119, 119, 119);
+}
+
+.widget_id_6 .nr_about{
+    top: 0px !important;
+    right: 0px !important;
+}
+
+img.nrelate_logo{
+    float: right;
+    margin: 0px 20px 20px !important;
+}
